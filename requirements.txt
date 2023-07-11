@@ -3,3 +3,4 @@ fuzzywuzzy
 pandas
 seaborn
 plotly
+gunicorn
