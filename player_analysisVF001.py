@@ -100,6 +100,7 @@ def get_cluster_players(player_name, players_df):
 
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("Big 5 European Leagues Player Analysis"),
