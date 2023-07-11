@@ -15,7 +15,7 @@ from plotly.subplots import make_subplots
 
 sns.set()
 
-players_df = pd.read_csv('clustered_positions.csv')
+players_df = pd.read_csv('data/clustered_positions.csv')
 image_path = '/Users/Felipe/Desktop/Concordia-bootcamps/Final Project/image.jpg'
 toggle = False
 
